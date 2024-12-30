@@ -1,3 +1,6 @@
+# DEPRECATED
+Please use https://github.com/bitcoin-tools/diyjade instead, per the [issue listed here](https://github.com/epiccurious/jade-diy/issues/78).
+
 # Jade Do-It-Yourself Hardware Guide
 
 This guide is designed for the general user who is not incompetant with computers and is looking to secure **less** than $100,000 (in 2023 prices) worth of bitcoin.
